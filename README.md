@@ -4,9 +4,9 @@ This example shows how to implement a **REST API** using [Express.JS](https://ex
 
 ## How to use
 
-Go to: [https://codesandbox.io/s/github/prisma-csb/rest-example-ts](https://codesandbox.io/s/github/prisma-csb/rest-example-ts)
-
-Codesandbox ID: `5yx0y5lljk`
+- Codesandbox URL: [https://codesandbox.io/s/github/prisma-csb/rest-example-ts](https://codesandbox.io/s/github/prisma-csb/rest-example-ts)
+- Server endpoint: [https://5yx0y5lljk.sse.codesandbox.io/feed](https://5yx0y5lljk.sse.codesandbox.io/feed)
+- Codesandbox ID: `5yx0y5lljk`
 
 ## API
 
